@@ -1,6 +1,6 @@
 # www.gaiann.com
 
-![logo](https://logo.gaiann.com/4/cover.png)
+![logo](https://logo.gaiann.com/2/default.png)
 
 
 our daily routine work based on clicking, so here you need less AI more UI based workers 
