@@ -1,5 +1,7 @@
 # www.gaiann.com
 
+our daily routine work based on clicking, so here you need less AI more UI based workers 
+
 
 ## what mean gaiann?
 
