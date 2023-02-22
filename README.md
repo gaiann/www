@@ -2,7 +2,7 @@
 
 ![logo](https://logo.gaiann.com/2/default.png)
 
-Gaiann is a personal worker to automate any browser-based job without access to API.
+Gaiann is a personal worker to automate any browser-based job without access to an ready API.
 
 We are working on an ON DEMAND version to run locally on the development station, in a virtual environment local and remote.
 
