@@ -2,12 +2,19 @@
 
 ![logo](https://logo.gaiann.com/2/default.png)
 
-## Gaian it's a worker
+Gaiann is a personal worker to automate any browser-based job without access to API.
+
+We are working on an ON DEMAND version to run locally on the development station, in a virtual environment local and remote.
+
+
+## Gaiann is your personal AI worker
 
 our daily routine work based on clicking, so here you need less AI more UI based workers 
+
+
 With Gaiann you can write or say kommands such:
 
-"Publish every day on my LinkedIn account a post about improvement in a job tasks, add an attachment a photo from a free stock about job"
++ "Publish every day on my LinkedIn account a post about improvement in a job tasks, add an attachment a photo from a free stock about job"
 
 
 
