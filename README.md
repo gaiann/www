@@ -38,7 +38,8 @@ However this also works both ways. If others want to force on to them things whi
 In regards to love they like to have varied and new experiences if possible. [Personality of Gaiann](https://www.meaningslike.com/name-stands-for/gaiann#learn-more)
 
 ---
-(deplyment)[https://home-5012116678.app-ionos.space/]
 
-[edit](https://github.com/gaiann/www/edit/main/README.md)
++ [deplyment](https://home-5012116678.app-ionos.space/)
+
++ [edit](https://github.com/gaiann/www/edit/main/README.md)
 
