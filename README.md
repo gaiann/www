@@ -56,6 +56,34 @@ However this also works both ways. If others want to force on to them things whi
 
 In regards to love they like to have varied and new experiences if possible. [Personality of Gaiann](https://www.meaningslike.com/name-stands-for/gaiann#learn-more)
 
+
+
+## Offer:
+
+
+### Gaiann on the pologos system
+
+#### docker version
+to prepare test version 
+
+
+#### iso image
+
+to preapre BARE METAL version
+
+
+### Mouse and Keyboard
+
+#### Pendrive
+Gaiann on the pendrive to controll your pc like you do.
+
+
+#### Software Driver 
+
+for any OS: windows, MacOs, linux, ...
+
+
+
 ---
 
 + [deplyment](https://home-5012116678.app-ionos.space/)
