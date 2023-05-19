@@ -1,6 +1,6 @@
 # www.gaiann.com
 
-![logo](https://logo.gaiann.com/1/cover.png)
+![logo](https://logo.gaiann.com/2/cover.png)
 
 
 
