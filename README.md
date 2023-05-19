@@ -3,6 +3,17 @@
 ![logo](https://logo.gaiann.com/2/default.png)
 
 
+
+This is what an autonomous workstation looks like, we want to bring the most value for the lowest price to work automation on every platform, hardware, system and software. An autonomous worker for every business and home office. Available in 2024 thanks to Softreck.
+#gaiann #worker #asystent #virtualbot #automation #cloudcomputing
+1. Video analysis via HDMI
+2. Keyboard and mouse control
+3. Data processing and voice communication with a human
+4. Cloud computing and communication with support
+
+![gaiann-iot](https://github.com/gaiann/www/assets/5669657/58ae90d3-3719-4d9f-894e-d44be92eeddf)
+
+
 ChatGPT is passé, meet Gaiann WORKER – the AI that can autonomously develop and manage tasks. It is mind-blowing 🤯
 
 The world is no longer the same, especially since Artificial Intelligence technologies have witnessed accelerated growth in the last few months! 
