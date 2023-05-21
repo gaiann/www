@@ -47,7 +47,6 @@ With Gaiann you can write or say kommands such:
 + "Publish every day on my LinkedIn account a post about improvement in a job tasks, add an attachment a photo from a free stock about job"
 
 
-
 ## what mean gaiann?
 
 Gai ann is short for Genetic Algorithms in Artificial Neural Networks, a type of artificial intelligence (AI) technology that uses a combination of genetic algorithms and artificial neural networks to solve complex problems.
@@ -66,6 +65,44 @@ However this also works both ways. If others want to force on to them things whi
   
 
 In regards to love they like to have varied and new experiences if possible. [Personality of Gaiann](https://www.meaningslike.com/name-stands-for/gaiann#learn-more)
+
+
+
+## Solutions
+
+
+web ssistant
+shell worker over http with wget
+```
+wget https://file.gaiann.com/?Docker-file-for-Nodejs
+wget https://docker.gaiann.com/?Nodejs
+wget https://sh.gaiann.com/?install-puppet
+wget https://sh.gaiann.com/?install-puppet-and-openstack
+wget https://sh.gaiann.com/?install-openstack
+```
+
+shell worker over http with curl
+```
+curl --get --data-urlencode "Write Docker file for Nodejs" https://www.gaiann.com -o script.sh
+```
+
+
+```
+curl --get --data-urlencode "Write Docker file for Nodejs" https://sh.gaiann.com -o
+```
+
+shell worker over ssh
+```
+ssh tom@gaiann.com
+```
+
+
+script worker over scp
+```
+scp tom@gaiann.com:/install-openstack.sh install-openstack.sh
+```
+
+
 
 
 
