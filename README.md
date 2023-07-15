@@ -1,6 +1,6 @@
-# www.gaiann.com
+# [gaiann.com](https://www.gaiann.com/) - Personal worker to automate any PC-based job 
 
-![logo](https://logo.gaiann.com/2/cover.png)
+![gaiann-iot](https://github.com/gaiann/www/assets/5669657/58ae90d3-3719-4d9f-894e-d44be92eeddf)
 
 
 
@@ -11,7 +11,12 @@ This is what an autonomous workstation looks like, we want to bring the most val
 3. Data processing and voice communication with a human
 4. Cloud computing and communication with support
 
-![gaiann-iot](https://github.com/gaiann/www/assets/5669657/58ae90d3-3719-4d9f-894e-d44be92eeddf)
+
+
+
+![logo](https://logo.gaiann.com/2/cover.png)
+
+
 
 
 ChatGPT is passé, meet Gaiann WORKER – the AI that can autonomously develop and manage tasks. It is mind-blowing 🤯
@@ -129,8 +134,6 @@ Gaiann on the pendrive to controll your pc like you do.
 #### Software Driver 
 
 for any OS: windows, MacOs, linux, ...
-
-
 
 ---
 
