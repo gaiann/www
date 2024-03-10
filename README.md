@@ -167,6 +167,28 @@ for any OS: windows, MacOs, linux, ...
 
 
 
+## PL
+
+
+wyobraź sobie, że dzwonisz przez Twój komunikator do asystenta, który 
++ pokazuje na ekranie zmiast rozmówcy np. kamerę monitoringu 
++ pytasz o zdarzenia z wczoraj
++ on pokazuje po kolei krótkie nagrania i komentuje co miało miejsce
+ 
+W skrócie **eGuard**
+
++ bez aplikacji
++ bez interfejsu
++ rozmowa z asystententem wybeiranego z kontaktów komunikatora 
+
++ asynchronicznie: powiadomienia w chat z opisem, fotografiami, krótkimi materiałami video [cameramonit](http://www.cameramonit.com)
++ synchronicznie: video rozmowa z komendami głosowymi [voco.camera](http://voco.camera)
+
+
+
+
+
+
 
 ---
 
