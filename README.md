@@ -16,6 +16,12 @@ This is what an autonomous workstation looks like, we want to bring the most val
 
 ![logo](https://logo.gaiann.com/2/cover.png)
 
++ computervision 
++ objectdetection
++ yolov9
++ researchanddevelopment
++ computervisionapplications 
+
 
 
 
