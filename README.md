@@ -20,6 +20,15 @@
 
 
 
+Wkrótce nastąpi popularyzacja agentów/asystentów dodawanych do naszych komunikatorów, które będą w locie wysyłać powiadomienia i realizować działania zdalne poprzez komendy głosowe przy integrację sensorów, kamer i różnych urządzeń.
+Gaiann jest jedną odpowiedzi na zapotrzebowanie prostych w użyciu kontrolowanych głosow asystenów dostępnych na każdą platformę.
+Czy jest gaiann?
+
++ asystent - odpowiadający na pytania
++ worker - wykonujący zadania
++ 
+
+
 ## About
 
 This is what an autonomous workstation looks like, we want to bring the most value for the lowest price to work automation on every platform, hardware, system and software. An autonomous worker for every business and home office. Available in 2024 thanks to Softreck.
@@ -57,6 +66,7 @@ This is what an autonomous workstation looks like, we want to bring the most val
   +  video streaming
   +  voice command
   +  audio alerts
+  +  
 + asynchronized
   + images
   + text
