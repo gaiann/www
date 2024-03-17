@@ -1,4 +1,4 @@
-# [gaiann.com](https://www.gaiann.com/) - Personal worker to automate any PC-based job 
+  # [gaiann.com](https://www.gaiann.com/) - Personal worker to automate any PC-based job 
 
 ![gaiann-iot](https://github.com/gaiann/www/assets/5669657/58ae90d3-3719-4d9f-894e-d44be92eeddf)
 
@@ -16,12 +16,31 @@ This is what an autonomous workstation looks like, we want to bring the most val
 
 ![logo](https://logo.gaiann.com/2/cover.png)
 
+
+
 ## Gaiann's solutions
+
+### elements
 
 + mind - camera mind - edge compputing hardware based on [militarity](http://www.militarity.com)
 + eye - camera monitoring [cameraMonit](http://www.cameramonit.com)
 + voice - talk to camera - [voco.camera](http://www.voco.camera)
 
+### functions
+
+
+
+### communication
+
++ synchronized
+  +  video streaming
+  +  voice command
+  +  audio alerts
++ asynchronized
+  + images
+  + text
+  + animations
+  + video shorts
 
 
 
