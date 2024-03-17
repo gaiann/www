@@ -46,6 +46,9 @@ This is what an autonomous workstation looks like, we want to bring the most val
 
 ### functions
 
++ cameraMonit.com
++ asynchron information about stream events based on stream url.
+  
 
 
 ### communication
@@ -65,8 +68,6 @@ This is what an autonomous workstation looks like, we want to bring the most val
 ### projects
 
 + [teleOperator.org - www](https://www.teleoperator.org/)
-
-[teleOperator.org | www](https://www.teleoperator.org/)
    
 -   telemonit.com
 -   cameraMonit.com
