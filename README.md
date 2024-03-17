@@ -1,8 +1,26 @@
-  # [gaiann.com](https://www.gaiann.com/) - Personal worker to automate any PC-based job 
-
 ![gaiann-iot](https://github.com/gaiann/www/assets/5669657/58ae90d3-3719-4d9f-894e-d44be92eeddf)
 
 
+# [gaiann.com](https://www.gaiann.com/) - Personal worker to automate any PC-based job 
+
+
+## Menu [+](https://github.com/leadership-run/www/edit/main/MENU.md)
+
++ [Human-Centric Solutions - WETWARE.dev: DigitalTwin](http://www.wetware.dev)
++ [Hardware-Centric Solutions - MILITARITY.com: Modular Hardware for Edge Computing](https://www.militarity.com)
++ [Architecture-Centric Solutions - MODWARE.org: Modular Foundation for Design Pattern](https://www.modware.org)
++ [Agent-Centric Solutions - TeleOperator.org: agent services Gaiann.com, Edi.Chat, do.camera, sub.actor](http://www.TeleOperator.org)
++ [Interface-Centric Solutions - nanoFrontends.com: Modular/Atomized Streamed Interface for media audio, video, textware.org, WebStream.dev](http://www.nanofrontends.com)
++ [Service-Centric Solutions - SaaSisKing.com: Software Requirements](http://www.SaaSisKing.com)
++ [Software-Centric Solutions - text.to.software - Modular Network of Code by Dialogware](http://text.to.software)
++ [Infrastructure-Centric Solutions - ModDevOps.com: Operations, Domains, DNS, CDN, Dynapsys](http://www.ModDevOps.com)
++ [Security-Centric Solutions - CyberPolygon.org: Incidents Detection, Prevention, Monitoring](http://www.cyberpolygon.org)
+
++ [SDLC: softreck.dev](http://leadership.run/SDLC)
+
+
+
+## About
 
 This is what an autonomous workstation looks like, we want to bring the most value for the lowest price to work automation on every platform, hardware, system and software. An autonomous worker for every business and home office. Available in 2024 thanks to Softreck.
 #gaiann #worker #asystent #virtualbot #automation #cloudcomputing
@@ -42,6 +60,40 @@ This is what an autonomous workstation looks like, we want to bring the most val
   + animations
   + video shorts
 
+
+
+### projects
+
++ [teleOperator.org - www](https://www.teleoperator.org/)
+
+[teleOperator.org | www](https://www.teleoperator.org/)
+   
+-   telemonit.com
+-   cameraMonit.com
+-   cameraMind.com
+-   TeleOperator.info
+    
+-   Edi.Chat
+-   sub.actor
+-   Gaiann.com
+    
+-   do.camera
+-   to.camera
+    
+-   voco.cam
+-   voco.camera
+-   voco.chat
+-   voco.computer
+-   voco.house
+-   voco.services
+-   vococamera.com
+-   vocochat.com
+-   vococomputer.com
+-   vocohouse.com
+-   vocoservices.com
+
+
+## definition
 
 
 ChatGPT is passé, meet Gaiann WORKER – the AI that can autonomously develop and manage tasks. It is mind-blowing 🤯
