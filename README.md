@@ -254,7 +254,11 @@ for any OS: windows, MacOs, linux, ...
 + securitysystems
 + monitoring
 + cctv
-
+#computervision
+#objectdetection
+#imagesegmentation
+#openvocabluary
+#prompt
 
 
 ## PL
