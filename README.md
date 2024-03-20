@@ -80,7 +80,7 @@ This is what an autonomous workstation looks like, we want to bring the most val
   + video shorts
 
 
-### channel
+### channels
 
 audio:
 + kanał dźwiękowy werbalny, czyli dialogi, odgłosy werbalne w tle, słowa piosenek;
@@ -96,6 +96,13 @@ Zapisuje się je kapitalikami, w TVP – na niebieskim tle, a na DVD umieszcza s
 
 Inaczej niż w napisach interjęzykowych, w napisach dla niesłyszących nieraz wykorzystuje się trzy linijki tekstu (zwłaszcza w programach informacyjnych). W programach telewizyjnych częstym rozwiązaniem stosowanym np. przez TVP i BBC jest przydzielenie konkretnego koloru napisów każdemu z bohaterów filmu w celu ułatwienia identyfikacji mówiącego.
 Napisy dla niesłyszących to napisy zamknięte, czyli takie, które można włączyć i wyłączyć samodzielnie – w telewizji przez teletekst, a na DVD przez ustawienia w menu. Są to napisy przygotowane odpowiednio wcześniej (ang. pre-recorded)
+
+
+Rosnąca ilość materiałów audiowizualnych i potrzeba ich tłumaczenia idzie w parze z rozwojem przekładu audiowizualnego jako dyscypliny naukowej.
+Obecnie trwa dyskusja na temat dostępności (ang. accessibility) przekładu audiowizualnego dla różnych grup społecznych. 
+To wszystko sprawia, że przekład audiowizualny jest coraz bardziej zaangażowany społecznie. 
+
+[https://core.ac.uk/download/pdf/229251099.pdf](https://core.ac.uk/download/pdf/229251099.pdf)
 
 
 ### projects
