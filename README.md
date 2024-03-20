@@ -20,6 +20,12 @@
 
 
 
+ewolucja asystentów głosowych to nie okulary, to poszerzenie funkcji urzadzeń i komunikatorów. Asystent głosowy #gaiann może wspierać kamery WIFI/IP integrując się z urządzeniami mobilnymi w #meshnetwork
+
+![asystent-ai-gaiann](https://github.com/gaiann/www/assets/5669657/aebc4f1b-ad79-4994-9444-247378e8881f)
+
+
+
 Wkrótce nastąpi popularyzacja agentów/asystentów dodawanych do naszych komunikatorów, które będą w locie wysyłać powiadomienia i realizować działania zdalne poprzez komendy głosowe przy integrację sensorów, kamer i różnych urządzeń.
 Gaiann jest jedną odpowiedzi na zapotrzebowanie prostych w użyciu kontrolowanych głosow asystenów dostępnych na każdą platformę.
 Czy jest gaiann?
