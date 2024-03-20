@@ -85,6 +85,12 @@ video:
 + kanał wizualny niewerbalny, czyli kompozycja obrazów i scen
 
 
+Napisy dla niesłyszących różnią się od napisów dla słyszących przede wszystkim tym, że zawierają oprócz dialogów informacje o wszelkiego rodzaju odgłosach pochodzących z kanału dźwiękowego niewerbalnego. 
+Zapisuje się je kapitalikami, w TVP – na niebieskim tle, a na DVD umieszcza się je przeważnie w nawiasach kwadratowych, np.: [dzwonek telefonu],[odgłos kroków], [pukanie do drzwi].
+
+Inaczej niż w napisach interjęzykowych, w napisach dla niesłyszących nieraz wykorzystuje się trzy linijki tekstu (zwłaszcza w programach informacyjnych). W programach telewizyjnych częstym rozwiązaniem stosowanym np. przez TVP i BBC jest przydzielenie konkretnego koloru napisów każdemu z bohaterów filmu w celu ułatwienia identyfikacji mówiącego.
+Napisy dla niesłyszących to napisy zamknięte, czyli takie, które można włączyć i wyłączyć samodzielnie – w telewizji przez teletekst, a na DVD przez ustawienia w menu. Są to napisy przygotowane odpowiednio wcześniej (ang. pre-recorded)
+
 
 ### projects
 
