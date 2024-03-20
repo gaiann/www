@@ -74,6 +74,17 @@ This is what an autonomous workstation looks like, we want to bring the most val
   + video shorts
 
 
+### channel
+
+audio:
++ kanał dźwiękowy werbalny, czyli dialogi, odgłosy werbalne w tle, słowa piosenek;
++ kanał dźwiękowy niewerbalny, czyli muzyka, efekty dźwiękowe, odgłosy niewerbalne i dźwięki dochodzące z otoczenia;
+
+video:
++ kanał wizualny werbalny, czyli napisy, znaki, nazwy ulic, gazet, dokumentów i inne informacje umieszczone na ekranie w formie pisanej;
++ kanał wizualny niewerbalny, czyli kompozycja obrazów i scen
+
+
 
 ### projects
 
