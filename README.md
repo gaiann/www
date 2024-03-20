@@ -105,6 +105,39 @@ To wszystko sprawia, że przekład audiowizualny jest coraz bardziej zaangażowa
 [https://core.ac.uk/download/pdf/229251099.pdf](https://core.ac.uk/download/pdf/229251099.pdf)
 
 
+
+Wykorzystanie systemu opartego na sztucznej inteligencji (AI) i jej pododmianie, jaką jest Language Model for Dialogue Applications (LLM), do analizy i opisu obrazu z kamery mobilnej lub kamery WiFi/IP, wymaga integracji kilku kluczowych komponentów technologicznych. 
+Poniżej przedstawiam, jak można to zrealizować w dwóch kanałach: werbalnym i niewerbalnym.
+
+### 1. Kanał wizualny werbalny:
+
+W tym przypadku, system musi być wyposażony w algorytmy OCR (Optical Character Recognition - rozpoznawanie tekstu), które potrafią identyfikować i interpretować tekst widoczny na obrazie video. To pozwala na przekształcenie wszelkich napisów, znaków, nazw ulic, gazet czy dokumentów w cyfrowy tekst, który może być następnie przetłumaczony na opis.
+
+- **Analiza i ekstrakcja tekstu:** Początkowo, obraz jest przetwarzany w celu zlokalizowania wszelkich elementów tekstu. Za pomocą technologii OCR, tekst jest ekstrahowany i przekształcany do postaci cyfrowej.
+- **Interpretacja i generowanie opisu:** Następnie, wykorzystując LLM, system analizuje i rozumie kontekst ekstrahowanego tekstu. Dzięki zrozumieniu znaczenia, AI może wygenerować opis tego, co tekst oznacza lub informuje. Na przykład, może opisać, co jest napisane na znaku ulicznym lub w nagłówku gazety.
+
+### 2. Kanał wizualny niewerbalny:
+
+Tutaj kluczową technologią jest analiza obrazu i rozpoznawanie obiektów, które umożliwia identyfikację i klasyfikację różnych elementów sceny - od osób, przez pojazdy, aż po inne szczegółowe elementy.
+
+- **Detekcja i klasyfikacja obiektów:** Przy pomocy zaawansowanych algorytmów analizy obrazu oraz uczonych modeli sieci neuronowych, system identyfikuje obiekty na obrazie oraz ich charakterystyki, takie jak lokalizacja, rozmiar czy ruch.
+- **Rozumienie sceny i generowanie opisu:** Po rozpoznaniu i klasyfikacji obiektów, AI wykorzystuje LLM do zrozumienia kontekstu całej sceny i generowania zrozumiałych opisów. Na przykład, może opisać kompozycję obrazów i scen: "Dwie osoby stojące obok parku, rozmawiające" lub "Samochód jadący ulicą w deszczowy dzień".
+
+### Integracja z urządzeniami mobilnymi i kamerami WiFi/IP:
+
+Aby umożliwić bezpośrednią analizę żywego obrazu ze streamu video, system musi być zintegrowany z API kamer mobilnych lub WiFi/IP. Dzięki temu obraz może być przesyłany do serwerów lub urządzeń edge, gdzie analiza obrazu i generowanie opisów będzie się odbywało w czasie rzeczywistym. Wymaga to jednak optymalizacji pod kątem zasobów obliczeniowych oraz szybkości przetwarzania, aby zapewnić płynność i aktualność opisów.
+
+### Wyjście audio:
+
+Dodatkowo, wygenerowany opis tekstowy może być przekształcony na mowę przy pomocy technologii syntezy mowy (Text-to-Speech), umożliwiając odbiór informacji w formie audio, co jest szczególnie przydatne dla osób niewidomych lub słabowidzących.
+
+### Podsumowanie:
+
+Wdrożenie takiego systemu wymaga zaawansowanych rozwiązań AI, w tym OCR, analizy obrazu, detekcji obiektów oraz modeli językowych LLM do generowania opisów.
+Głównym wyzwaniem jest integracja tych technologii w jedną, spójną platformę, która działając w czasie rzeczywistym, zapewni dostępność i użyteczność opisów zarówno w formie tekstowej, jak i audio.
+
+
+
 ### projects
 
 + [teleOperator.org - www](https://www.teleoperator.org/)
@@ -289,6 +322,10 @@ for any OS: windows, MacOs, linux, ...
 #imagesegmentation
 #openvocabluary
 #prompt
+#tracking
+#python
+#github
+#opensource
 
 
 ## PL
