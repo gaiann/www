@@ -25,14 +25,84 @@ ewolucja asystentów głosowych to nie okulary, to poszerzenie funkcji urzadzeń
 ![asystent-ai-gaiann](https://github.com/gaiann/www/assets/5669657/aebc4f1b-ad79-4994-9444-247378e8881f)
 
 
-
 Wkrótce nastąpi popularyzacja agentów/asystentów dodawanych do naszych komunikatorów, które będą w locie wysyłać powiadomienia i realizować działania zdalne poprzez komendy głosowe przy integrację sensorów, kamer i różnych urządzeń.
 Gaiann jest jedną odpowiedzi na zapotrzebowanie prostych w użyciu kontrolowanych głosow asystenów dostępnych na każdą platformę.
-Czy jest gaiann?
+
+## Czym jest gaiann?
 
 + asystent - odpowiadający na pytania
 + worker - wykonujący zadania
 + 
+
+## Wprowadzenie
+
+
+Wielu uważa, że rewolucją są systemy wizyjne poąłczone z AI, jednak niewielu wie jak to zrobić w sposób, który podpbije serca użytkowników.
+Co mamy dziś i co niestety nie przyjęło się przez miliony?
+
++ okulary AR/VR
++ smartfony z wbudowanymi aplikacjami
++ google glass
+  
+
+Co nadchodzi?
++ RabbitMQ
+
+
+
+## podsumowanie
+
+Zwłaszcza Google glasss wydawał się faworytem, integrując się z człowiekiem nie tylko poprzez interfejs głosowy, ale też video z ekranem 
+Aktualnie Meta wykonuje podobny produkt.
+
+
+Dlaczego tego typu rozwiązania nie mają szansy zbudować wokół siebie szerszego grona odbiorców?
+
+
+
+## Co ma szanse?
+
+Co używamy dziś, co uważamy za przydatne?
+
+### Smartphone
+Smartphone jako podssatawowe urządzenie komunikacji, jednak wielokrotnie nie korzystamy ze wszystkich korzyści.
+Duży ekran przydaje się jak można na chwilę spojrzeć, ale często wystarczy interfejs głosowy, jeśli działa poprawnie
+
+### Asystent głosowy
++ Asystent głosowy w domu, gdzie mamy prywatność
+
+
+### Połaczenie najnowszych technologii
+
+Urządzenia typu ebook z dostępem do sieci 5G/6G z wbudowaną inteligencją
+
+Przekierowanie zasobów:
+ewolucja z urządzenia do wyświetlania treści w formie bogatych kolorów wysokich rozdzielczości przychodzących zdalnie do zmniejszenia rozdzielczości i kolorów na rzecz przetwarzania treści przychodzących lokalnie.
+
+Oszczędność Energii
++ ekran e-Ink oszczędza energię i nie wymaga zaawansowanego procesora grafiki a pozwala na pracę w komfortowych warunkach
++ Eliminacja wysokiej rozdzielczośći ekranu OLED z silną GPU na rzecz e-Ink działające wolniej z mniejszą rozdzielczością zużywającego mniej zasobów procesora i mniej energii do zasilania, działa lepiej w dzień
+
+Użytkownicy
++ Wielu docenia fakt, że nie rozprasza tak jak smartfony i używa już takich smartfonów lub ebooków/notatników
++ Większa funkcjonalność w obszarze audio wizualnej komunikacji z człowiekiem bez potrzeby używania wizualnej formy
++ zachowanie tych samych lub mniejszych wymiarów niż smartphone
+
+Interfejs użytkownika
++ tym samym procesorze ale wyspecjalizowanym do do celów przetwrzania AI jako local embedded edge computing
++ minimum 600x480 E Ink display
+
+  
++ The Light Phone 2 was funded in a crowdfunding campaign (which reached its goals very quickly).
++ The phone will cost $225 as part of the campaign, with a $400 target retail cost. It will ship by April 2019.
+
++ [Mobile phones - E-Ink-Info](https://www.e-ink-info.com/e-ink-devices/mobile-phones)
+
+
+
+
+
+
 
 
 ## About
