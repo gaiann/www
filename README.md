@@ -96,7 +96,70 @@ Interfejs użytkownika
 Interfejs komunikacji
 + 5G pozwala na dostęp do lokalnych centrów przetwarzania
 + 5G oszczędza energię, ponieważ jest dostępne lokalnie na krótkich dystanasach z większą przepsutowosćią
-+ %G to krótsze dystanse niż przy 3G,4G - oznacza to oszczędność energii potrzebnej na komunikację
++ 5G to krótsze dystanse niż przy 3G,4G - oznacza to oszczędność energii potrzebnej na komunikację
+
+
+
+Co będzie przyszłością asystentów audio-wizualnych?
+
+Co zastąpi lub uzupełni smartphone?
+
+Co będzie działać w sieciach 5G i 6G?
+
+
+### Przykładowa Specyfikacja
+
+Asystent głosowy z zaawansowanymi technologicznie interfejsami:
+
+ekran: e-INK 2-4 cali
+
+komunikacja: 5G, WIFI, Bluetooth, (LoRaWAN)
+
+Procesor z mocą obliczeniową jak w urz. typu smartphone
+
+Akumulator zbliżony pojemnością do tych z urządzeń typu smartphone: port USB-C z szybkim ładowaniem 18W dla baterii o pojemności aż 4770 mAh
+
+2 kamery do sterowizji do max. 12MP z wbudowanym procesorem graficznym typu video2text oraz podświetleniem IR
+
+Minimum 2 Mikrofony z wbudowanym interfejsem voice2text
+
+2 Głośniki z wbudowanym interfejsem text2voice
+
+
+
+Takie parametry przenośnego asystenta głosowego mogą uzupełnić urządzenie typu  smartphone w drodze, samochodzie, biurze i domu. Jako drugie urządzenie przypisane do tego miejsca a nie użytkownika.
+
+Rozdzielczość do 2-4 cali w lekkiej formie pozwala na wygodne czytanie tylko krótszych komunikatów/animacji jako uzupełnieni asystenta dla potrzeb komunikacji głównie głosowej w oparciu o kamerę prztwarzającą.
+
+Lekka forma pozwala na przypięcie i usytowanie urządzenia w dowolnym miejscu oraz z możliwością noszenia na ręce, by kamery miały łatwiejszą analizę video stereo.
+
+
+### Przykładowa Budowa 
+
+Grubość maksymalnie 1 cm
+Głośniki i mikrofony po bokach
+Na dole akumulator
+
+
+
+
+Dlaczego tego typu urządzenia mimo, że już  były dostępne ponad dekadę temu nie zdobyły popularności?
+
+1. Brak szybkiego procesora
+
+2. Skupienie funkcjonalności i interfejsu na urządzeniu typu smartphone
+
+3. Brak możliwości integracji z innymi urządzeniami w wygodny sposób
+
+
+
+
+
+
+
+#meta #rayban #google #glass #vr #mr #ar #prediction #research #2025
+
+https://www.nbcnews.com/tech/gadgets/e-ink-android-phone-runs-week-weighs-almost-nothing-flna1c8616899
 
 
 ### Przykładowe urządzenia z e-Ink
@@ -105,6 +168,9 @@ Interfejs komunikacji
 + The phone will cost $225 as part of the campaign, with a $400 target retail cost. It will ship by April 2019.
 
 + [Mobile phones - E-Ink-Info](https://www.e-ink-info.com/e-ink-devices/mobile-phones)
+
+
+
 
 
 
