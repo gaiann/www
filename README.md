@@ -68,6 +68,7 @@ Co używamy dziś, co uważamy za przydatne?
 Smartphone jako podssatawowe urządzenie komunikacji, jednak wielokrotnie nie korzystamy ze wszystkich korzyści.
 Duży ekran przydaje się jak można na chwilę spojrzeć, ale często wystarczy interfejs głosowy, jeśli działa poprawnie
 
+
 ### Asystent głosowy
 + Asystent głosowy w domu, gdzie mamy prywatność
 
@@ -92,6 +93,13 @@ Interfejs użytkownika
 + tym samym procesorze ale wyspecjalizowanym do do celów przetwrzania AI jako local embedded edge computing
 + minimum 600x480 E Ink display
 
+Interfejs komunikacji
++ 5G pozwala na dostęp do lokalnych centrów przetwarzania
++ 5G oszczędza energię, ponieważ jest dostępne lokalnie na krótkich dystanasach z większą przepsutowosćią
++ %G to krótsze dystanse niż przy 3G,4G - oznacza to oszczędność energii potrzebnej na komunikację
+
+
+### Przykładowe urządzenia z e-Ink
   
 + The Light Phone 2 was funded in a crowdfunding campaign (which reached its goals very quickly).
 + The phone will cost $225 as part of the campaign, with a $400 target retail cost. It will ship by April 2019.
