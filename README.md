@@ -687,6 +687,12 @@ These categories must work together as efficient, coordinated fleets that delive
 
 
 
+## MODELE AI ML
+
+ Modele po kwantyzacji (AWQ/GPTQ dla GPU, GGUF dla CPU) i rozwiązania typu Ollama, LMStudio, TextGenerationWebUI do ich lokalnego uruchamiania.
+ Apple wypuscił jakiś czas temu swój framework MLX, który pozwala na natywne wykorzystanie GPU na SoC
+ 
+
 ---
 
 + [deplyment](https://home-5012116678.app-ionos.space/)
