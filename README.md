@@ -426,6 +426,12 @@ scp tom@gaiann.com:/install-openstack.sh install-openstack.sh
 
 ## Offer:
 
+### cena
+Autonomiczna aplikacja na android działająca w lokalnej sieci analizująca video w czasie rzeczywistym będzie dostępna od 50EUR jednorazowo w ramach pierwszej wersji.
+
+W taki sposób najszybciej spotkam zainteresowanych, bo inne opcje jak wizyta u klienta i zapropnowanie uszytego na miarę systemu to inna rzecz, za inne kwoty. 
+Na dziś liczę na sprzedaż masową pod klientów biznesowych w systemach z kilkoma kamerami, bo docelowo będzie tracking obiektów.
+
 
 ### Gaiann on the pologos system
 
