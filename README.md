@@ -676,10 +676,19 @@ Behavior-based autonomy
 6. "Humanity-Inspired Autonomy"
 7. "Society-Managed Independence"
 8. "User-Commanded Self-Sufficiency"
-#computervision
-#objectdetection
-#opensource
-#realtime
++ #computervision
++ #objectdetection
++ #opensource
++ #realtime
+
++ #supervision
++ #roboflow
++ #opencv
++ #computervision
++ #deeplearning
++ #machinelearning
++ #python
+
 
 ## Autonomous ecosystems
 
