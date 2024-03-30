@@ -634,6 +634,39 @@ For a brand like Gaiann, which is focused on providing an ecosystem that include
 **"Human-Autonomy Teaming"** stands out as the most fitting choice for Gaiann. It clearly articulates the brand's innovative approach to combining human interaction with autonomous technology, creating a synergistic relationship between the user and the system. This term comprehensively covers the essence of Gaiann's ecosystem — where hardware and software work in concert with human inputs through voice, behavior, and text commands to enhance and optimize edge computing for autonomous environments and operations. It communicates a modern, collaborative approach that is likely to appeal to technologically savvy consumers and organizations looking for smart, efficient solutions.
 
 
+## Top 5 Free new workshops to build practical hands-on skills:
+
+1. Build GenAI apps fast with Bedrock
+
+You will gain hands-on experience using Bedrock APIs, SDKs, and open-source software LangChain, FAISS and more.
+
+[Bedrock](https://catalog.us-east-1.prod.workshops.aws/workshops/a4bdb007-5600-4368-81c5-ff5b4154f518/en-US)
+
+
+2. GenAI with SageMaker
+
+Sage Maker Quickstart solutions for fine-tuning and customizing the open source models using the features of Sage Maker.
+
+[SageMaker](https://catalog.us-east-1.prod.workshops.aws/workshops/972fd252-36e5-4eed-8608-743e84957f8e/en-US/lab4)
+
+
+3. Code faster with CodeWhisperer
+
+Build applications faster and more securely with your Al coding companion. Learn the basics of prompt engineering.
+
+[awscw-labs](https://catalog.us-east-1.prod.workshops.aws/workshops/6838a1a5-4516-4153-90ce-ac49ca8e1357/en-US)
+
+4. Information Retrieval with Bedrock
+
+Build generative Al prototypes with Amazon Bedrock and tools such as LangChain, StreamLit, and vector databases.
+
+[Bedrock](https://catalog.workshops.aws/building-with-amazon-bedrock/en-US)
+
+5. Tutorials on the new AWS community website.
+
+Share and learn with community of cloud enthusiasts. This generative Al space includes guides and tutorials written by AWS community members.
+
+[genai-space](https://community.aws/generative-ai)
 
 
 
