@@ -688,7 +688,12 @@ Behavior-based autonomy
 + #deeplearning
 + #machinelearning
 + #python
-
++ #AIBaseCamp
++ #AI
++ #PhotoProcessing
++ #ArtificialIntelligence
++ #ComputerVision
++ #TechInnovation
 
 ## Autonomous ecosystems
 
