@@ -477,6 +477,13 @@ for any OS: windows, MacOs, linux, ...
 #github
 #opensource
 
+#artificialintelligence 
+#machinevision 
+#machinelearning 
+#datascience
+
+
+
 
 ## PL
 
